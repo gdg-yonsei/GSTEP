@@ -1,3 +1,6 @@
 [submodule "GSTEP-flutter"]
 	path = GSTEP-flutter
 	url = https://github.com/haaem/GSTEP-flutter
+[submodule "GSTEP-go"]
+	path = GSTEP-go
+	url = https://github.com/yuljang/GSTEP-go
